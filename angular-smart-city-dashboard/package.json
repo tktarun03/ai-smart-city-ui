@@ -1,0 +1,11 @@
+{
+    "name": "angular-smart-city-dashboard",
+    "version": "1.0.0",
+    "dependencies": {
+        "@angular/core": "^13.0.0",
+        "stencil-smart-city-ui": "file:../stencil-smart-city-ui/dist"
+    },
+    "scripts": {
+        "start": "ng serve"
+    }
+}
